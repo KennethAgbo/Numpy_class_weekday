@@ -1,0 +1,1 @@
+# Numpy_class_weekday
